@@ -4,6 +4,9 @@
 
 This repository contains a **Retail Sales Performance Analysis Dashboard** created to provide key insights into product sales, payment methods, customer reviews, and regional sales performance. The dashboard helps in analyzing sales trends over time, understanding payment preferences, and assessing product ratings.
 
+![Alt text for the image](https://github.com/Fernan034/retail-sales-analysis-dashboard/blob/main/Retail%20Sales%20Dashboard.png?raw=true)
+
+
 ## Features
 
 - **Total Sales by Product**: Visualizes the sales performance for each product, highlighting the top-selling products.
